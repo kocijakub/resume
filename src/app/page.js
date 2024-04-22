@@ -1,6 +1,4 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-import {bgWhite} from "next/dist/lib/picocolors";
+
 
 export default function Home() {
   return (
